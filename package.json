@@ -1,0 +1,23 @@
+{
+  "name": "bp-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaiis/bp-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaiis/bp-bot/issues"
+  },
+  "homepage": "https://github.com/shaiis/bp-bot",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
